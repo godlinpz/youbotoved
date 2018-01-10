@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         YouBotoVed
 // @namespace    http://tampermonkey.net/
-// @version      0.13
+// @version      0.14
 // @description  try to take over the world!
 // @author       God
 // @match        https://youtube.com/*
@@ -11,4 +11,4 @@
 // @require      https://github.com/godlinpz/youbotoved/raw/master/youbotoved.js
 // ==/UserScript==
 
-alert(1);
+//alert(1);
