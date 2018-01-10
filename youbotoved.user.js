@@ -8,4 +8,4 @@
 // @grant        unsafeWindow
 // ==/UserScript==
 
-unsafeWindow.$.getScript('https://github.com/godlinpz/youbotoved/blob/master/youbotoved.js');
+unsafeWindow.$.getScript('https://github.com/godlinpz/youbotoved/raw/master/youbotoved.js');
