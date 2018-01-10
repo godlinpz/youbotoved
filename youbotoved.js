@@ -1,3 +1,3 @@
 // Youbotoved main script
 
-alert('TEST!');
+alert('TEST 1!');
