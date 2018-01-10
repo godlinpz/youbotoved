@@ -1,3 +1,3 @@
 // Youbotoved main script
 
-alert('Hello!');
+alert('TEST!');
