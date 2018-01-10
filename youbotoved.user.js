@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         YouBotoVed
 // @namespace    http://tampermonkey.net/
-// @version      0.14
+// @version      0.15
 // @description  try to take over the world!
 // @author       God
 // @match        https://youtube.com/*
